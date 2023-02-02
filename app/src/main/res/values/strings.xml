@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="action_next_session">Next Session</string>
+    <string name="action_clear_result_CSV">Reset and Clear Result CSV</string>
+    <string name="session_completed">Session is completed</string>
+    <string name="trial_message">In %1$s menu, select %2$s</string>
+    <string name="open_normal_menu">Open Normal Menu</string>
+    <string name="open_pie_menu">Open Pie Menu</string>
+    <string name="open_custom_menu">Open Custom Menu</string>
+</resources>

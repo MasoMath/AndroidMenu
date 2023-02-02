@@ -1,0 +1,9 @@
+LINEAR,First/Second/Third/Fourth/Fifth/Sixth/Seventh/Eighth
+LINEAR,1st/2nd/3rd/4th/5th/6th/7th/8th
+LINEAR,1/2/4/8/16/32/64/128
+RELATIVE,North/NE/East/SE/South/SW/West/NW
+RELATIVE,Up/UpRight/Right/DownRight/Down/DownLeft/Left/UpLeft
+RELATIVE,Top/TopRight/Right/BottomRight/Bottom/BottomLeft/Left/TopLeft
+UNCLASS,Center/Bold/Italic/Font/Move/Copy/Find/Undo
+UNCLASS,Login/Logout/Open/Close/Hardcopy/Shrink/Shape/Move
+UNCLASS,Print/Cast/Bookmark/Edit/Zoom/Download/Create/Delete
